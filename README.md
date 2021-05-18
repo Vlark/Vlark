@@ -1,6 +1,8 @@
 Hi, I’m [Matthew Schmeer](https://www.linkedin.com/in/matthew-schmeer-6aaa4b144/)  
 
 [About](http://blogs.jccc.edu/schmeer/?page_id=54)  
+
+Find me here:  
 [Rended Press](https://rendedpress.blogspot.com/)  
 [Me & Alfred Roanoke](https://meandalfredroanoke.wordpress.com/)  
 [Poem Shots](https://poemshots.wordpress.com/)  
