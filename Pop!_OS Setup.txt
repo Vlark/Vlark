@@ -46,3 +46,22 @@ Gnome shell extensions:
     Cmatrix
     neofetch
  
+ Firefox Add-Ons:
+  Improve YouTube
+  Bitwarden
+  Bypass Paywalls
+  Caret Tab
+  DownThemAll
+  Easy Youtube Video Downloader Express
+  Privacy Badger
+  HTTPS Everywhere
+  Ublock Origin
+  Bookmark Dupes
+  Bookmark Organizer
+  Download Star
+  Soundcloud Downloader
+  
+Themes:
+  Apps - Arc-Dark
+  Shell - Arc-Dark
+  Icons - Papirus
