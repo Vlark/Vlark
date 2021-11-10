@@ -15,6 +15,8 @@ Gnome shell extensions:
     Rewind 103.9: http://cp13.shoutcheap.com:8031/stream
     YourClassical Radio: https://ycradio.stream.publicradio.org/ycradio.aac
     Mangoradio: http://stream.mangoradio.de/
+    SomaFM Groove Salad: http://ice3.somafm.com/groovesalad-128-mp3
+    BBC World Service: http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
   Kitchen timer: https://extensions.gnome.org/extension/3955/kitchen-timer/
   Pomodoro: https://extensions.gnome.org/extension/53/pomodoro/
   Transparent shell: https://extensions.gnome.org/extension/3518/transparent-shell/
