@@ -14,6 +14,7 @@ Gnome shell extensions:
     Ambient Radio: http://uk2.internet-radio.com:31491/
     Rewind 103.9: http://cp13.shoutcheap.com:8031/stream
     YourClassical Radio: https://ycradio.stream.publicradio.org/ycradio.aac
+    Mangoradio: http://stream.mangoradio.de/
   Kitchen timer: https://extensions.gnome.org/extension/3955/kitchen-timer/
   Pomodoro: https://extensions.gnome.org/extension/53/pomodoro/
   Transparent shell: https://extensions.gnome.org/extension/3518/transparent-shell/
