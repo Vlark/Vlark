@@ -6,15 +6,15 @@ Pop!OS 21.04
 Gnome shell extensions:
   Hide top bar
   Internet radio
-    Radio Paradise Main Mix
-    Radio Paradise Mellow Mix
-    Radio Paradise Rock Mix
-    Lounge-Radio.com
-    Chillhop
-    Ambient Radio
-    Rewind 103.9
-    YourClassical Radio
-  Kitchen timer
+    Radio Paradise Main Mix: https://stream.radioparadise.com/mp3-192 
+    Radio Paradise Mellow Mix: https://stream.radioparadise.com/mellow-192
+    Radio Paradise Rock Mix: https://stream.radioparadise.com/rock-192
+    Lounge-Radio.com: http://fr1.streamhosting.ch/lounge128.mp3
+    Chillhop: https://streams.fluxfm.de/Chillhop/mp3-128/
+    Ambient Radio: http://uk2.internet-radio.com:31491/
+    Rewind 103.9: http://cp13.shoutcheap.com:8031/stream
+    YourClassical Radio: https://ycradio.stream.publicradio.org/ycradio.aac
+  Kitchen timer 
   Pomodoro
   Transparent shell
   User themes
@@ -47,6 +47,7 @@ Gnome shell extensions:
     neofetch
  
  Firefox Add-Ons:
+  Arc-Dark Theme: https://addons.mozilla.org/en-US/firefox/addon/arc-dark-theme-we/
   Improve YouTube
   Bitwarden
   Bypass Paywalls
@@ -62,6 +63,9 @@ Gnome shell extensions:
   Soundcloud Downloader
   
 Themes:
-  Apps - Arc-Dark
-  Shell - Arc-Dark
-  Icons - Papirus
+  Apps - Arc-Dark: https://github.com/horst3180/arc-theme
+  Shell - Arc-Dark: https://github.com/horst3180/arc-theme
+  Icons - Papirus: https://www.gnome-look.org/s/Gnome/p/1166289
+  
+  I really like Arc-Darkest, too: https://www.gnome-look.org/p/1317409
+  
