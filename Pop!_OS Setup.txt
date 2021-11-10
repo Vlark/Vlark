@@ -4,8 +4,8 @@ Here is a quick and dirty list for my Pop!OS setup:
 Pop!OS 21.04
 
 Gnome shell extensions:
-  Hide top bar
-  Internet radio
+  Hide top bar: https://extensions.gnome.org/extension/545/hide-top-bar/
+  Internet radio: https://extensions.gnome.org/extension/836/internet-radio/
     Radio Paradise Main Mix: https://stream.radioparadise.com/mp3-192 
     Radio Paradise Mellow Mix: https://stream.radioparadise.com/mellow-192
     Radio Paradise Rock Mix: https://stream.radioparadise.com/rock-192
@@ -14,37 +14,37 @@ Gnome shell extensions:
     Ambient Radio: http://uk2.internet-radio.com:31491/
     Rewind 103.9: http://cp13.shoutcheap.com:8031/stream
     YourClassical Radio: https://ycradio.stream.publicradio.org/ycradio.aac
-  Kitchen timer 
-  Pomodoro
-  Transparent shell
-  User themes
+  Kitchen timer: https://extensions.gnome.org/extension/3955/kitchen-timer/
+  Pomodoro: https://extensions.gnome.org/extension/53/pomodoro/
+  Transparent shell: https://extensions.gnome.org/extension/3518/transparent-shell/
+  User themes: https://extensions.gnome.org/extension/19/user-themes/
   
   Apps:
     Audacious
-    Calibre
-    Discord
-    Focuswriter
-    MComix
-    Megasync
+    Calibre: https://calibre-ebook.com/
+    Discord: https://discord.com/
+    Focuswriter: https://gottcode.org/focuswriter/
+    MComix: https://sourceforge.net/projects/mcomix/
+    Megasync: https://mega.io/sync
     Min
     PulseAudio Volume Control
     Rhythmbox
-    Simplenote
+    Simplenote: https://simplenote.com/
     Synaptic Package Manager
     Gnome Tweaks
-    Typora
-    Bleachbit
-    Vivaldi
+    Typora: https://typora.io/
+    Bleachbit: https://www.bleachbit.org/
+    Vivaldi: https://vivaldi.com/
     VLC Media Player
-    Zettlr
-    Pomodoro
+    Zettlr: https://www.zettlr.com/
+    Pomodoro: https://gnomepomodoro.org/
     KDE Connect
     Okular
     
  Terminal Apps:
-    btop
-    Cmatrix
-    neofetch
+    btop++: https://github.com/aristocratos/btop
+    Cmatrix: https://github.com/abishekvashok/cmatrix
+    neofetch: https://github.com/dylanaraps/neofetch
  
  Firefox Add-Ons:
   Arc-Dark Theme: https://addons.mozilla.org/en-US/firefox/addon/arc-dark-theme-we/
