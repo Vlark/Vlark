@@ -1,7 +1,6 @@
 Here is a quick and dirty list for my Pop!OS setup:
-(will add links soon -- plain text list right now)
 
-## Pop!OS 21.10 beta
+## [Pop!OS 21.10 beta](https://github.com/pop-os/beta)
 
 ### Gnome shell extensions  
 * [Hide top bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
