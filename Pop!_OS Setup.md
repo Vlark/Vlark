@@ -22,7 +22,8 @@ Here is a quick and dirty list for my Pop!OS setup:
 * [Transparent shell](https://extensions.gnome.org/extension/3518/transparent-shell/)
 * [User themes](https://extensions.gnome.org/extension/19/user-themes/)  
 
-### Apps  
+### Apps
+(apps not linked are in PopShop or available through apt)
 * Apostrophe (markdown editor)
 * Audacious  
 * [Bleachbit](https://www.bleachbit.org/)  
