@@ -3,6 +3,8 @@ Here is a quick and dirty list for my Pop!OS setup:
 ## [Pop!OS 21.10 beta](https://github.com/pop-os/beta)
 
 ### Gnome shell extensions  
+* [Dash to Dock](https://micheleg.github.io/dash-to-dock/)  
+* [Dynamic Panel Transparency](https://github.com/ewlsh/dynamic-panel-transparency/)  
 * [Hide top bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
 * [Internet radio](https://extensions.gnome.org/extension/836/internet-radio/)
   * [Ambient Radio](http://uk2.internet-radio.com:31491/)
@@ -18,7 +20,6 @@ Here is a quick and dirty list for my Pop!OS setup:
   * [YourClassical Radio](https://ycradio.stream.publicradio.org/ycradio.aac)
 * [Kitchen timer](https://extensions.gnome.org/extension/3955/kitchen-timer/)
 * [Pomodoro](https://extensions.gnome.org/extension/53/pomodoro/)  
-* [Transparent shell](https://extensions.gnome.org/extension/3518/transparent-shell/)
 * [User themes](https://extensions.gnome.org/extension/19/user-themes/)  
 
 ### Apps
