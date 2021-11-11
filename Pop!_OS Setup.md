@@ -3,7 +3,7 @@ Here is a quick and dirty list for my Pop!OS setup:
 ## [Pop!OS 21.10 beta](https://github.com/pop-os/beta)
 
 ### Gnome shell extensions  
-* [Dash to Dock](https://micheleg.github.io/dash-to-dock/)  
+~~* [Dash to Dock](https://micheleg.github.io/dash-to-dock/)~~
 * [Dynamic Panel Transparency](https://github.com/ewlsh/dynamic-panel-transparency/)  
 * [Hide top bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
 * [Internet radio](https://extensions.gnome.org/extension/836/internet-radio/)
