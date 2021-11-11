@@ -39,6 +39,7 @@ Here is a quick and dirty list for my Pop!OS setup:
 * [Pomodoro](https://gnomepomodoro.org/)  
 * PulseAudio Volume Control  
 * Rhythmbox  
+* Shortwave  
 * [Simplenote](https://simplenote.com/)  
 * Synaptic Package Manager  
 * [Typora](https://typora.io/)  
