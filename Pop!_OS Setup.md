@@ -19,7 +19,6 @@ Here is a quick and dirty list for my Pop!OS setup:
   * [SomaFM Groove Salad](http://ice3.somafm.com/groovesalad-128-mp3)
   * [YourClassical Radio](https://ycradio.stream.publicradio.org/ycradio.aac)
 * [Kitchen timer](https://extensions.gnome.org/extension/3955/kitchen-timer/)
-* [Pomodoro](https://extensions.gnome.org/extension/53/pomodoro/)  
 * [User themes](https://extensions.gnome.org/extension/19/user-themes/)  
 
 ### Apps
@@ -42,7 +41,6 @@ Here is a quick and dirty list for my Pop!OS setup:
 * Shortwave  
 * [Simplenote](https://simplenote.com/)  
 * Synaptic Package Manager  
-* [Typora](https://typora.io/)  
 * [Vivaldi](https://vivaldi.com/)  
 * VLC Media Player  
 * [Zettlr](https://www.zettlr.com/)  
