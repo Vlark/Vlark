@@ -1,6 +1,6 @@
 Here is a quick and dirty list for my Pop!OS setup:
 
-## [Pop!OS 21.10 beta](https://github.com/pop-os/beta)
+## Pop!OS 21.04 & [Pop!OS 21.10 beta](https://github.com/pop-os/beta)
 
 ### Gnome shell extensions  
 * ~~[Dash to Dock](https://micheleg.github.io/dash-to-dock/)~~ <- seems to have some weird conflicts with 21.10 beta
@@ -50,6 +50,7 @@ Here is a quick and dirty list for my Pop!OS setup:
 * [btop++](https://github.com/aristocratos/btop)  
 * [Cmatrix](https://github.com/abishekvashok/cmatrix)  
 * [neofetch](https://github.com/dylanaraps/neofetch)
+* [rEFInd](https://www.rodsbooks.com/refind/)
  
 ### Firefox Add-Ons
 
