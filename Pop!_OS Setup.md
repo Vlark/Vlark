@@ -1,4 +1,4 @@
-Here is a quick and dirty list for my Pop!OS setup:
+Here is a quick and dirty list for my Pop! OS setup:
 
 ## Pop! OS 21.04 & [Pop! OS 21.10 beta](https://github.com/pop-os/beta)
 
