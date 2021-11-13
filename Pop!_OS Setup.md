@@ -17,10 +17,10 @@ Here is a quick and dirty list for my Pop! OS setup:
   * [Radio Paradise Mellow Mix](https://stream.radioparadise.com/mellow-192)
   * [Radio Paradise Rock Mix](https://stream.radioparadise.com/rock-192)
   * [Rewind 103.9](http://cp13.shoutcheap.com:8031/stream)
-  * [SomaFM Groove Salad](http://ice3.somafm.com/groovesalad-128-mp3)
+  * ~~[SomaFM Groove Salad](http://ice3.somafm.com/groovesalad-128-mp3)~~
   * [YourClassical Radio](https://ycradio.stream.publicradio.org/ycradio.aac)
 * [Kitchen timer](https://extensions.gnome.org/extension/3955/kitchen-timer/)
-* ~~[SomaFM Internet Radio](https://extensions.gnome.org/extension/1237/somafm-internet-radio/)~~
+* [SomaFM Internet Radio](https://extensions.gnome.org/extension/1237/somafm-internet-radio/)
 * [User themes](https://extensions.gnome.org/extension/19/user-themes/)  
 
 ### Apps
