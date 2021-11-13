@@ -34,7 +34,7 @@ Here is a quick and dirty list for my Pop! OS setup:
 * KDE Connect  
 * [MComix](https://sourceforge.net/projects/mcomix/)  
 * [Megasync](https://mega.io/sync)  
-* Min  
+* [Min](https://minbrowser.org/)  
 * Okular  
 * [Pomodoro](https://gnomepomodoro.org/)  
 * PulseAudio Volume Control  
