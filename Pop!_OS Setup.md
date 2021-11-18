@@ -7,7 +7,7 @@ Here is a quick and dirty list for my Pop! OS setup:
 * ~~[Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/)~~ <- turns out I prefer the regular COSMIC dock
 * [Dynamic Panel Transparency](https://github.com/ewlsh/dynamic-panel-transparency/)  
 * [Hide top bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
-* [Internet radio](https://extensions.gnome.org/extension/836/internet-radio/)
+* [Internet radio](https://extensions.gnome.org/extension/836/internet-radio/) with the following streams added:
   * [Ambient Radio](http://uk2.internet-radio.com:31491/)
   * [BBC World Service](http://stream.live.vc.bbcmedia.co.uk/bbc_world_service)
   * [Chillhop](https://streams.fluxfm.de/Chillhop/mp3-128/)
@@ -17,14 +17,14 @@ Here is a quick and dirty list for my Pop! OS setup:
   * [Radio Paradise Mellow Mix](https://stream.radioparadise.com/mellow-192)
   * [Radio Paradise Rock Mix](https://stream.radioparadise.com/rock-192)
   * [Rewind 103.9](http://cp13.shoutcheap.com:8031/stream)
-  * ~~[SomaFM Groove Salad](http://ice3.somafm.com/groovesalad-128-mp3)~~
+  * [SomaFM Groove Salad](http://ice3.somafm.com/groovesalad-128-mp3)
   * [YourClassical Radio](https://ycradio.stream.publicradio.org/ycradio.aac)
 * [Kitchen timer](https://extensions.gnome.org/extension/3955/kitchen-timer/)
-* [SomaFM Internet Radio](https://extensions.gnome.org/extension/1237/somafm-internet-radio/) <- doesn't work under GNOME shell v40+
+* [SomaFM Internet Radio](https://extensions.gnome.org/extension/1237/somafm-internet-radio/) <- doesn't work under GNOME shell v40+, so I use the Internet Radio extension above
 * [User themes](https://extensions.gnome.org/extension/19/user-themes/)  
 
 ### Apps
-(apps not linked are in PopShop or available through apt)
+(apps not linked are in the Pop Shop or available through apt)
 * Apostrophe (markdown editor)
 * Audacious  
 * [Bleachbit](https://www.bleachbit.org/)  
@@ -40,7 +40,8 @@ Here is a quick and dirty list for my Pop! OS setup:
 * [Pomodoro](https://gnomepomodoro.org/)  
 * PulseAudio Volume Control  
 * Rhythmbox  
-* Shortwave  
+* Shortwave
+* [rEFInd](https://www.rodsbooks.com/refind/)
 * [Simplenote](https://simplenote.com/)  
 * Synaptic Package Manager  
 * [Vivaldi](https://vivaldi.com/)  
@@ -51,7 +52,6 @@ Here is a quick and dirty list for my Pop! OS setup:
 * [btop++](https://github.com/aristocratos/btop)  
 * [Cmatrix](https://github.com/abishekvashok/cmatrix)  
 * [neofetch](https://github.com/dylanaraps/neofetch)
-* [rEFInd](https://www.rodsbooks.com/refind/)
  
 ### Firefox Add-Ons
 
