@@ -71,8 +71,6 @@ Here is a quick and dirty list for my Pop! OS setup:
   * Ublock Origin
 
 ### Themes
- * Apps = [Arc-Dark](https://github.com/horst3180/arc-theme)
- * Shell = [Arc-Dark](https://github.com/horst3180/arc-theme)
- * Icons = [Papirus](https://www.gnome-look.org/s/Gnome/p/1166289)
-  
-  I really like [Arc-Darkest](https://www.gnome-look.org/p/1317409), too.
+ * Apps = [Arc-Dark](https://github.com/horst3180/arc-theme) / [Orchis](https://www.gnome-look.org/p/1357889)
+ * Shell = [Arc-Dark](https://github.com/horst3180/arc-theme) / [Orchis](https://www.gnome-look.org/p/1357889)
+ * Icons = [Papirus](https://www.gnome-look.org/s/Gnome/p/1166289) / [Tela](https://www.pling.com/p/1279924/)
