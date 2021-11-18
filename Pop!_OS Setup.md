@@ -21,6 +21,7 @@ Here is a quick and dirty list for my Pop! OS setup:
   * [YourClassical Radio](https://ycradio.stream.publicradio.org/ycradio.aac)
 * [Kitchen timer](https://extensions.gnome.org/extension/3955/kitchen-timer/)
 * [SomaFM Internet Radio](https://extensions.gnome.org/extension/1237/somafm-internet-radio/) <- doesn't work under GNOME shell v40+, so use Internet Radio above
+* [Transparent Shell](https://extensions.gnome.org/extension/3518/transparent-shell/)
 * [User themes](https://extensions.gnome.org/extension/19/user-themes/)  
 
 ### Apps
