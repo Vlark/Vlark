@@ -4,7 +4,7 @@ Here is a quick and dirty list for my Pop! OS setup:
 
 ### Gnome shell extensions  
 * ~~[Dash to Dock](https://micheleg.github.io/dash-to-dock/)~~ <- seems to have some weird conflicts with 21.10 beta
-* [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) 
+* ~~[Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/)~~ <- turns out I prefer the regular COSMIC dock
 * [Dynamic Panel Transparency](https://github.com/ewlsh/dynamic-panel-transparency/)  
 * [Hide top bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
 * [Internet radio](https://extensions.gnome.org/extension/836/internet-radio/)
