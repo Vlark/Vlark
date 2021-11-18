@@ -64,6 +64,7 @@ Here is a quick and dirty list for my Pop! OS setup:
   * [Download Star](https://addons.mozilla.org/en-US/firefox/addon/download-star/)
   * [DownThemAll](https://addons.mozilla.org/en-US/firefox/addon/downthemall/)
   * [Easy Youtube Video Downloader Express](https://addons.mozilla.org/en-US/firefox/addon/easy-youtube-video-download/)
+  * [GNOME Shell Integration](https://addons.mozilla.org/en-US/firefox/addon/gnome-shell-integration/)
   * [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere)
   * [Improve YouTube](https://addons.mozilla.org/en-US/firefox/addon/youtube-addon/)
   * [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
