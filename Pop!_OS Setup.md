@@ -20,7 +20,7 @@ Here is a quick and dirty list for my Pop! OS setup:
   * [SomaFM Groove Salad](http://ice3.somafm.com/groovesalad-128-mp3)
   * [YourClassical Radio](https://ycradio.stream.publicradio.org/ycradio.aac)
 * [Kitchen timer](https://extensions.gnome.org/extension/3955/kitchen-timer/)
-* [SomaFM Internet Radio](https://extensions.gnome.org/extension/1237/somafm-internet-radio/) <- doesn't work under GNOME shell v40+, so I use the Internet Radio extension above
+* [SomaFM Internet Radio](https://extensions.gnome.org/extension/1237/somafm-internet-radio/) <- doesn't work under GNOME shell v40+, so use Internet Radio above
 * [User themes](https://extensions.gnome.org/extension/19/user-themes/)  
 
 ### Apps
