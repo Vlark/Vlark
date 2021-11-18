@@ -55,20 +55,20 @@ Here is a quick and dirty list for my Pop! OS setup:
  
 ### Firefox Add-Ons
 
-  * [Arc-Dark Theme](https://addons.mozilla.org/en-US/firefox/addon/arc-dark-theme-we/)  
-  * Improve YouTube
-  * Bitwarden
-  * Bookmark Dupes
-  * Bookmark Organizer
+  * [Audio Downloader Prime](https://addons.mozilla.org/en-US/firefox/addon/audio-downloader-prime/)
+  * [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
+  * [Bookmark Dupes](https://addons.mozilla.org/en-US/firefox/addon/bookmark-dupes/)
+  * [Bookmark Organizer](https://addons.mozilla.org/en-US/firefox/addon/bookmarks-organizer/)
   * [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-firefox)
-  * Caret Tab
-  * Download Star
-  * DownThemAll
-  * Easy Youtube Video Downloader Express
-  * HTTPS Everywhere
-  * Privacy Badger
-  * Soundcloud Downloader
-  * Ublock Origin
+  * [Caret Tab](https://addons.mozilla.org/en-US/firefox/addon/carettab/)
+  * [Download Star](https://addons.mozilla.org/en-US/firefox/addon/download-star/)
+  * [DownThemAll](https://addons.mozilla.org/en-US/firefox/addon/downthemall/)
+  * [Easy Youtube Video Downloader Express](https://addons.mozilla.org/en-US/firefox/addon/easy-youtube-video-download/)
+  * [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere)
+  * [Improve YouTube](https://addons.mozilla.org/en-US/firefox/addon/youtube-addon/)
+  * [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+  * [Soundcloud Downloader](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/)
+  * [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
 ### Themes
  * Apps = [Arc-Dark](https://github.com/horst3180/arc-theme) / [Orchis](https://www.gnome-look.org/p/1357889)
