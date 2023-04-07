@@ -8,4 +8,4 @@ Find me here:
 [Poem Shots](https://poemshots.wordpress.com/)  
 [Poetry Midwest+](https://poetrymidwestplus.wordpress.com/)  
 [Poetry Midwest](https://poetrymidwest.blogspot.com/)  
-[Twitter](https://twitter.com/mwschmeer) | [Reddit](https://www.reddit.com/user/vlarkvaaran) | [itch.io](https://vlark.itch.io/)
+[Twitter](https://twitter.com/mwschmeer) | [Reddit](https://www.reddit.com/user/vlarkvaaran) | [itch.io](https://vlark.itch.io/) | [Mastodon](https://writing.exchange/@mwschmeer)
