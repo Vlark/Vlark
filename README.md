@@ -9,4 +9,4 @@ Find me here:
 [Rended Press](https://rendedpress.blogspot.com/)  
 [Poetry Midwest+](https://poetrymidwestplus.wordpress.com/)  
 [Poetry Midwest](https://poetrymidwest.blogspot.com/)  
-[Tumblr](https://www.tumblr.com/mwschmeer) | [Bluesky](https://bsky.app/profile/mwschmeer.bsky.social)) | [itch.io](https://vlark.itch.io/) | [Mastodon](https://writing.exchange/@mwschmeer)
+[Tumblr](https://www.tumblr.com/mwschmeer) | [Bluesky](https://bsky.app/profile/mwschmeer.bsky.social) | [itch.io](https://vlark.itch.io/) | [Mastodon](https://writing.exchange/@mwschmeer)
