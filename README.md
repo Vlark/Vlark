@@ -7,6 +7,4 @@ Find me here:
 [notes from a poemnaut](https://mwschmeer.vivaldi.net)  
 [Me & Alfred Roanoke](https://meandalfredroanoke.wordpress.com/)  
 [Rended Press](https://rendedpress.blogspot.com/)  
-[Poetry Midwest+](https://poetrymidwestplus.wordpress.com/)  
-[Poetry Midwest](https://poetrymidwest.blogspot.com/)  
-[Tumblr](https://www.tumblr.com/mwschmeer) | [Bluesky](https://bsky.app/profile/mwschmeer.bsky.social) | [itch.io](https://vlark.itch.io/) | [Mastodon](https://writing.exchange/@mwschmeer)
+ [itch.io](https://vlark.itch.io/) | [Bluesky](https://bsky.app/profile/mwschmeer.bsky.social) |[Mastodon](https://writing.exchange/@mwschmeer)
