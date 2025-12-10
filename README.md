@@ -8,4 +8,4 @@ Find me here:
 [notes from a poemnaut](https://mwschmeer.vivaldi.net)  
 [Poem Shots](https://poemshots.wordpress.com/)  
 [Rended Press](https://rendedpress.blogspot.com/)  
- [itch.io](https://vlark.itch.io/) | [Bluesky](https://bsky.app/profile/mwschmeer.bsky.social) | [Mastodon](https://writing.exchange/@mwschmeer)
+  [Bluesky](https://bsky.app/profile/mwschmeer.bsky.social) | [itch.io](https://vlark.itch.io/) | [Mastodon](https://writing.exchange/@mwschmeer)
